@@ -9,6 +9,21 @@
  */
 class SimpleClass
 {
+    /**
+     * [区分]クラスの概要
+     *
+     * クラスの詳細
+     * 出来るだけ細かく書いたほうがよいが、詳細な説明は各メソッドに任せる。
+     * 全体での共通ルールとか仕様を書く。
+     *
+     * @access アクセスレベル
+     * @author 名前 <メールアドレス>
+     * @copyright 会社名 All Rights Reserved
+     * @category カテゴリー（処理系）
+     * @package パッケージ（MVC）
+     */
+    
+     
     // プロパティの宣言
     public $var = 'a default value';
     
